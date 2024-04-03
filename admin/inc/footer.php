@@ -1,6 +1,6 @@
  </section>
 <section class="footeroption">
-		<h2><?php echo "nayem Howlader"; ?></h2>
+		<h2><?php echo "coding with ibrahim"; ?></h2>
 	</section>
 </div>
 </body>
